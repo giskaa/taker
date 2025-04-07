@@ -2971,3 +2971,12 @@
 4/7/2025 | 8:22:57 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/7/2025 | 8:22:57 AM | INFO | Trying to activate mining on-chain for wallet: 0x10476F9677c50BEBCBa03AB616a1143bA0556814 
 4/7/2025 | 8:23:08 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x10496cfcda4022f150d72db4a39957a2591626c96154b78c7c587a7590bd95c4 
+4/7/2025 | 12:34:55 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/7/2025 | 12:34:55 PM | INFO | Start process for wallet 0x10476F9677c50BEBCBa03AB616a1143bA0556814 
+4/7/2025 | 12:34:56 PM | INFO | Trying To Login for wallet: 0x10476F9677c50BEBCBa03AB616a1143bA0556814 
+4/7/2025 | 12:34:57 PM | INFO | Login successful... 
+4/7/2025 | 12:34:57 PM | INFO | Trying to check user info... 
+4/7/2025 | 12:34:58 PM | INFO | User ID: 103250717 | Twitter: @mygiska | Total Points: 1128000 
+4/7/2025 | 12:34:58 PM | INFO | Trying to check user miner status... 
+4/7/2025 | 12:34:58 PM | INFO | Last mining time: 4/7/2025, 8:23:03 AM
+4/7/2025 | 12:34:58 PM | WARN | Mining already started, next mining time is: 4/8/2025, 8:23:03 AM

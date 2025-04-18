@@ -3569,3 +3569,12 @@
 4/17/2025 | 8:18:35 PM | INFO | Trying to activate mining on-chain for wallet: 0x10476F9677c50BEBCBa03AB616a1143bA0556814 
 4/17/2025 | 8:18:36 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:18:36 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 1:18:09 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 1:18:09 AM | INFO | Start process for wallet 0x10476F9677c50BEBCBa03AB616a1143bA0556814 
+4/18/2025 | 1:18:09 AM | INFO | Trying To Login for wallet: 0x10476F9677c50BEBCBa03AB616a1143bA0556814 
+4/18/2025 | 1:18:10 AM | INFO | Login successful... 
+4/18/2025 | 1:18:10 AM | INFO | Trying to check user info... 
+4/18/2025 | 1:18:11 AM | INFO | User ID: 103250717 | Twitter: @mygiska | Total Points: 1344000 
+4/18/2025 | 1:18:11 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 1:18:15 AM | INFO | Last mining time: 4/17/2025, 12:34:03 PM
+4/18/2025 | 1:18:15 AM | WARN | Mining already started, next mining time is: 4/18/2025, 12:34:03 PM

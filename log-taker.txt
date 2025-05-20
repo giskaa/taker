@@ -5406,3 +5406,16 @@
 5/20/2025 | 4:20:46 AM | INFO | Trying to check user miner status... 
 5/20/2025 | 4:20:50 AM | INFO | Last mining time: 5/19/2025, 12:37:24 PM
 5/20/2025 | 4:20:50 AM | WARN | Mining already started, next mining time is: 5/20/2025, 12:37:24 PM
+5/20/2025 | 8:24:16 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 8:24:16 AM | INFO | Start process for wallet 0x10476F9677c50BEBCBa03AB616a1143bA0556814 
+5/20/2025 | 8:24:17 AM | INFO | Trying To Login for wallet: 0x10476F9677c50BEBCBa03AB616a1143bA0556814 
+5/20/2025 | 8:24:17 AM | INFO | Login successful... 
+5/20/2025 | 8:24:17 AM | INFO | Trying to check user info... 
+5/20/2025 | 8:24:18 AM | INFO | User ID: 103250717 | Twitter: @mygiska | Total Points: 2040000 
+5/20/2025 | 8:24:18 AM | INFO | Trying to check user miner status... 
+5/20/2025 | 8:24:19 AM | INFO | Last mining time: 3/4/2025, 8:19:12 AM
+5/20/2025 | 8:24:19 AM | INFO | Trying to start Mining for wallet: 0x10476F9677c50BEBCBa03AB616a1143bA0556814 
+5/20/2025 | 8:24:20 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/20/2025 | 8:24:20 AM | INFO | Trying to activate mining on-chain for wallet: 0x10476F9677c50BEBCBa03AB616a1143bA0556814 
+5/20/2025 | 8:24:21 AM | ERROR | Activate Mining Error: {"code":"CALL_EXCEPTION","action":"estimateGas","data":null,"reason":null,"transaction":{"to":"0xB3eFE5105b835E5Dd9D206445Dbd66DF24b912AB","data":"0x02fb0c5e","from":"0x10476F9677c50BEBCBa03AB616a1143bA0556814"},"invocation":null,"revert":null,"shortMessage":"missing revert data","info":{"error":{"code":-32603,"message":"execution fatal: Module(ModuleError { index: 40, error: [5, 0, 0, 0], message: None })"},"payload":{"method":"eth_estimateGas","params":[{"nonce":"0x5b","from":"0x10476f9677c50bebcba03ab616a1143ba0556814","to":"0xb3efe5105b835e5dd9d206445dbd66df24b912ab","data":"0x02fb0c5e"}],"id":3,"jsonrpc":"2.0"}}}
+5/20/2025 | 8:24:21 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
